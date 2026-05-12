@@ -96,7 +96,7 @@ const birthdayGift = {
   ],
   // ganti foto di sini
   galleryPhotos: [
-    { title: 'Photo 1', caption: 'Photo 1', src: galleryPhotoUrls[0] ?? '' },
+    { title: 'Photo 1', caption: 'beautiful moment', src: galleryPhotoUrls[0] ?? '' },
     { title: 'Photo 2', caption: 'Photo 2', src: galleryPhotoUrls[1] ?? '' },
     { title: 'Photo 3', caption: 'Photo 3', src: galleryPhotoUrls[2] ?? '' },
     { title: 'Photo 4', caption: 'Photo 4', src: galleryPhotoUrls[3] ?? '' },
